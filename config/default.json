@@ -1,0 +1,4 @@
+{
+    "MongoURI":"mongodb+srv://yashmunjal:yashmunjal@cluster-social-zngkr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"theSecretKeyOfyash"
+}
