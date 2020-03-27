@@ -1,2 +1,2 @@
-# Developer-social-network
-MERN Stack made social media network for developers as a part of Udemy Certification 
+# Dance-edia
+social media network for dancers made as a part of Udemy Certification 
