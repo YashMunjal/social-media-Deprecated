@@ -1,2 +1,2 @@
-# Dance-edia
-social media network for dancers made as a part of Udemy Certification 
+# Devconnector
+Social media network for developers made as a part of Udemy Certification 
