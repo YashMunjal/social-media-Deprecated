@@ -1,2 +1,3 @@
 config/production.json
 .vscode
+node_modules
