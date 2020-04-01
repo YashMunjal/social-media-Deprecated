@@ -1,2 +1,3 @@
-# Devconnector
-Social media network for developers made as a part of Udemy Certification 
+#Dev Connector-Udemy Certification
+
+A social media for developers as a part of Udemy Certification
